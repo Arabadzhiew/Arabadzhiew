@@ -9,7 +9,7 @@ My name is Petar Arabadzhiev, an Informatics student from Plovdiv, Bulgaria. I s
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arabadzhiew&theme=react"  align ="center"></img>
 </span>
 <span>
-	<img src="https://github-readme-stats.vercel.app/api?	username=Arabadzhiew&show_icons=true&theme=react" 		alt="Arabadzhiew's GitHub stats"  align ="center"></img>
+	<img src="https://github-readme-stats.vercel.app/api?username=Arabadzhiew&show_icons=true&theme=react" alt="Arabadzhiew's GitHub stats"  align ="center"></img>
 </span><br/><br/>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=Arabadzhiew&label=Profile+views"></img>

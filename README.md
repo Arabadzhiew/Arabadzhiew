@@ -1,5 +1,3 @@
-![](https://i.imgur.com/zLMdAJJ.png)
-
 ## Hello,
 
 My name is Petar Arabadzhiev, an Informatics student from Plovdiv, Bulgaria. I strive to better myself each end every day. I am interested in web application development. I have experience with Java, Spring Framework, SQL, HTML, CSS and JavaScript. I also have experience with Java Server Pages, JavaFX and some basic level experience with C++.

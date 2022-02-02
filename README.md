@@ -1,6 +1,6 @@
 ## Hello,
 
-My name is Petar Arabadzhiev, an Informatics student from Plovdiv, Bulgaria. I strive to better myself each end every day. I am currently interested in the development of web applications. I have experience with Java SE, Java EE, Spring Framework, Spring Data, Spring Security, Tomcat, SQL, HTML, CSS and JavaScript. I also have experience with Java Server Pages, JavaFX and some basic experience with C++.
+My name is Petar Arabadzhiev, an Informatics student from Plovdiv, Bulgaria. I strive enrich my knowledge and broaden my skill set each and every day. I am currently interested in the development of web applications. I have experience with Java SE, Java EE, Spring Framework, Spring Data, Spring Security, JPA, Hibernate, JDBC, Tomcat, SQL, HTML, CSS and JavaScript. I also have experience with Java Server Pages, JavaFX and some basic experience with C++. I am open to contribute to projects that utilize the above mentioned technologies, so feel free to hit me up if you think I could help you in any way, shape or form.
 
 ## Profile statistics
 <span>
